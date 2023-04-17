@@ -1,0 +1,27 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#39ecf4",
+        "activityBar.background": "#39ecf4",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#f54aee",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#39ecf4",
+        "statusBar.background": "#0de3ed",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#0ab5bd",
+        "statusBarItem.remoteBackground": "#0de3ed",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#0de3ed",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#0de3ed99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#0DE3ED",
+    "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+        "live-server": true,
+        "live-preview": true
+    },
+    "console-ninja.outputMode": "Beside File"
+}
